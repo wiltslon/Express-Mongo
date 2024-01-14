@@ -28,7 +28,7 @@ A estrutura das coleções é a seguinte.
 ### livros
 | Atributo | Tipo |
 | ------------- | ------------- |
-| titula | String |
+| titulo | String |
 | editora | String |
 | preco | int32 |
 | paginas | int32 |
