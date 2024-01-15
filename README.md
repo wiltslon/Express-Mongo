@@ -13,6 +13,8 @@ Para iniciar o servidor HTTP, utilize o comando.
 
 ```
 nodemon server.js
+ou
+npm run dev
 ```
 
 O banco de dados utilizado foi o MongoDB, em sua versão na nuvem Atlas. Para conectar-se ao banco, deverá ser criado um novo banco de dados com duas coleções: "autores" e "livros".
